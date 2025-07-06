@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"GitHub Release Notification","order":2,"path":"folders/GitHub Release Notification.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"__GitHubReleaseNotifWorker","order":1,"path":"objects/__GitHubReleaseNotifWorker/__GitHubReleaseNotifWorker.yy",},
+    {"name":"GitHubReleaseNotif","order":2,"path":"scripts/GitHubReleaseNotif/GitHubReleaseNotif.yy",},
+    {"name":"Test","order":3,"path":"scripts/Test/Test.yy",},
+  ],
+}
